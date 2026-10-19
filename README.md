@@ -33,3 +33,5 @@ zig build run
 | 1   | [The other side of the screen](https://www.jasperdunn.com/blog/the-other-side-of-the-screen/)                   | —                                           |
 | 2   | [Zig, SDL3, and a window](https://www.jasperdunn.com/blog/zig-sdl3-and-a-window/)                               | `002-zig-sdl3-and-a-window`                 |
 | 3   | [The square moves faster on my machine](https://www.jasperdunn.com/blog/the-square-moves-faster-on-my-machine/) | `003-the-square-moves-faster-on-my-machine` |
+| 4   | [Points of view](https://www.jasperdunn.com/blog/points-of-view/)                                               | `004-points-of-view-start`                  |
+| 4   | —                                                                                                               | `004-points-of-view`                        |
